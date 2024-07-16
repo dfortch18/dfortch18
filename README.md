@@ -38,6 +38,11 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfortch18&layout=compact&theme=highcontrast" alt="GitHub Stats" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=dfortch18&theme=juicyfresh&row=1&column=7&margin-h=15&margin-w=5" alt="TROPHY" />
+    </td>
+  </tr>
 </table>
 
 ---
