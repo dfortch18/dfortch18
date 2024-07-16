@@ -32,10 +32,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dfortch18&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=dfortch18&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfortch18&layout=compact&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfortch18&layout=compact&theme=highcontrast" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
@@ -48,19 +48,19 @@
   <tr>
     <td>
       <a href="https://github.com/dfortch18/javapad">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dfortch18&repo=javapad&theme=radical" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dfortch18&repo=javapad&theme=highcontrast" />
       </a>
     </td>
     <td>
       <a href="https://github.com/dfortch18/employee-list-ui">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dfortch18&repo=employee-list-ui&theme=radical" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dfortch18&repo=employee-list-ui&theme=highcontrast" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/dfortch18/php-mvc-dependency-injection">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dfortch18&repo=php-mvc-dependency-injection&theme=radical" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dfortch18&repo=php-mvc-dependency-injection&theme=highcontrast" />
       </a>
     </td>
   </tr>
