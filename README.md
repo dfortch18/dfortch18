@@ -2,7 +2,7 @@
 
 # Hi! I'm Daniel 👋
 
-<p>I'm a backend-focused developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197575.png" width="13" /> <b>Colombia</b>. My main focus is on backend development, but occasionally I get into desktop application development and frontend development.</p>
+<p>I am a backend development student from <img src="https://cdn-icons-png.flaticon.com/512/197/197575.png" width="13" /> <b>Colombia</b>. My main goal is backend development, although I occasionally get involved in frontend development.</p>
 
 ---
 
