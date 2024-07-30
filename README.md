@@ -1,13 +1,14 @@
-![](./assets/banner.png)
+
+![Banner](./assets/banner.png)
+
 
 # Hi! I'm Daniel 👋
 
-<p>I am a backend development student from <img src="https://cdn-icons-png.flaticon.com/512/197/197575.png" width="13" /> <b>Colombia</b>. My main goal is backend development, although I occasionally get involved in frontend development.</p>
+<p>I am a backend development student from <img src='https://cdn-icons-png.flaticon.com/512/197/197575.png' width='13' /> <b>Colombia</b>. My main goal is backend development, although I occasionally get involved in frontend development.</p>
 
 ---
 
 ## 🌟 About Me
-
 - 🎓 I’m currently learning new backend technologies and methodologies.
 - 🔍 I’m interested in creating efficient and scalable solutions.
 - 📫 How to reach me: [Email](mailto:fortichdaniel16@gmail.com)
@@ -16,16 +17,15 @@
 ---
 
 ## 🚀 Technologies & Tools
-
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/es/)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
+[![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
 [![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)](https://getcomposer.org/)
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+[![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/)
 [![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -35,19 +35,19 @@
 ## 📊 GitHub Stats
 
 <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dfortch18&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfortch18&layout=compact&theme=highcontrast" alt="GitHub Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=dfortch18&theme=juicyfresh&row=1&column=7&margin-h=15&margin-w=5" alt="TROPHY" />
-    </td>
-  </tr>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=dfortch18&show_icons=True&theme=highcontrast" alt="Stats" />
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfortch18&layout=compact&theme=highcontrast" alt="Top languages" />
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
+            <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=dfortch18&theme=juicyfresh&row=18&column=8&margin-h=15&margin-w=5" alt="Trophies" />
+        </td>
+    </tr>
 </table>
 
 ---
@@ -55,23 +55,24 @@
 ## 🔥 Repository Pins
 
 <table>
-  <tr>
-    <td>
-      <a href="https://github.com/dfortch18/javapad">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dfortch18&repo=javapad&theme=highcontrast" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/dfortch18/employee-list-ui">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dfortch18&repo=employee-list-ui&theme=highcontrast" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/dfortch18/php-mvc-dependency-injection">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dfortch18&repo=php-mvc-dependency-injection&theme=highcontrast" />
-      </a>
-    </td>
-  </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/dfortch18/javapad">
+                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dfortch18&repo=javapad&theme=highcontrast" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/dfortch18/employee-list-ui">
+                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dfortch18&repo=employee-list-ui&theme=highcontrast" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/dfortch18/php-mvc-dependency-injection">
+                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dfortch18&repo=php-mvc-dependency-injection&theme=highcontrast" />
+            </a>
+        </td>
+        <td></td>
+    </tr>
 </table>
