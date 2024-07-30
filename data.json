@@ -1,0 +1,120 @@
+{
+    "username": "dfortch18",
+    "name": "Daniel",
+    "email": "fortichdaniel16@gmail.com",
+    "banner": {
+        "url": "./assets/banner.png",
+        "alt": "Banner"
+    },
+    "bio": "<p>I am a backend development student from <img src='https:\/\/cdn-icons-png.flaticon.com/512/197/197575.png' width='13' /> <b>Colombia</b>. My main goal is backend development, although I occasionally get involved in frontend development.</p>",
+    "about": [
+        "🎓 I’m currently learning new backend technologies and methodologies.",
+        "🔍 I’m interested in creating efficient and scalable solutions.",
+        "📫 How to reach me: [Email](mailto:{email})",
+        "⚡ Fun fact: I enjoy playing the guitar in my free time."
+    ],
+    "technologies": [
+        {
+            "badge": "language.java",
+            "url": "https://www.java.com/es/",
+            "alt": "Java"
+        },
+        {
+            "badge": "language.python",
+            "url": "https://www.python.org/",
+            "alt": "Python"
+        },
+        {
+            "badge": "language.php",
+            "url": "https://www.php.net/",
+            "alt": "PHP"
+        },
+        {
+            "badge": "database.mysql",
+            "url": "https://www.mysql.com/",
+            "alt": "MySQL"
+        },
+        {
+            "badge": "database.sqlite",
+            "url": "https://www.sqlite.org/",
+            "alt": "SQLite"
+        },
+        {
+            "badge": "database.mongodb",
+            "url": "https://www.mongodb.com/",
+            "alt": "MongoDB"
+        },
+        {
+            "badge": "management.maven",
+            "url": "https://maven.apache.org/",
+            "alt": "Apache Maven"
+        },
+        {
+            "badge": "management.composer",
+            "url": "https://getcomposer.org/",
+            "alt": "Composer"
+        },
+        {
+            "badge": "framework.spring",
+            "url": "https://spring.io/",
+            "alt": "Spring Framework"
+        },
+        {
+            "badge": "orm.hibernate",
+            "url": "https://hibernate.org/",
+            "alt": "Hibernate"
+        },
+        {
+            "badge": "test.junit",
+            "url": "https://junit.org/junit5/",
+            "alt": "JUnit"
+        },
+        {
+            "badge": "tool.git",
+            "url": "https://git-scm.com/",
+            "alt": "Git"
+        }
+    ],
+    "stats": {
+        "config": {
+            "github_reamde_stats": {
+                "stats": {
+                    "show_icons": true,
+                    "theme": "highcontrast",
+                    "alt": "Stats"
+                },
+                "top_langs": {
+                    "theme": "highcontrast",
+                    "layout": "compact",
+                    "alt": "Top languages"
+                }
+            },
+            "github_profile_trophy": {
+                "theme": "juicyfresh",
+                "row": 18,
+                "column": 8,
+                "margin_height": 15,
+                "margin_width": 5,
+                "alt": "Trophies"
+            }
+        },
+        "sections": [
+            ["stats", "top_langs"],
+            ["trophy"]
+        ]
+    },
+    "repositories": [
+        {
+            "theme": "highcontrast",
+            "name": "javapad"
+        },
+        {
+            "theme": "highcontrast",
+            "name": "employee-list-ui"
+        },
+        {
+            "theme": "highcontrast",
+            "name": "php-mvc-dependency-injection"
+        }
+    ]
+}
