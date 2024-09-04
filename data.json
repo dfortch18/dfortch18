@@ -1,0 +1,105 @@
+{
+    "template": "simple",
+    "data": {
+        "user": {
+            "username": "dfortch18",
+            "name": "Daniel",
+            "email": "fortichdaniel16@gmail.com"
+        },
+        "sections": {
+            "description": {
+                "content": "<p>I am a backend development student from <img src='https:\/\/cdn-icons-png.flaticon.com/512/197/197575.png' width='13' /> <b>Colombia</b>. My main goal is backend development, although I occasionally get involved in frontend development.</p>"
+            },
+            "about": {
+                "content": "- 🎓 I’m currently learning new backend technologies and methodologies.\n\n- 🔍 I’m interested in creating efficient and scalable solutions.\n\n- 🌱 I am open to discovering other fields of technology."
+            },
+            "technologies": {
+                "style": "flat-square",
+                "techs": [
+                    {
+                        "badge": "language.java",
+                        "url": "https://www.java.com/es/",
+                        "alt": "Java"
+                    },
+                    {
+                        "badge": "language.python",
+                        "url": "https://www.python.org/",
+                        "alt": "Python"
+                    },
+                    {
+                        "badge": "language.php",
+                        "url": "https://www.php.net/",
+                        "alt": "PHP"
+                    },
+                    {
+                        "badge": "language.javascript",
+                        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+                        "alt": "JavaScript"
+                    },
+                    {
+                        "badge": "language.typescript",
+                        "url": "https://www.typescriptlang.org/",
+                        "alt": "TypeScript"
+                    },
+                    {
+                        "badge": "database.mysql",
+                        "url": "https://www.mysql.com/",
+                        "alt": "MySQL"
+                    },
+                    {
+                        "badge": "database.sqlite",
+                        "url": "https://www.sqlite.org/",
+                        "alt": "SQLite"
+                    },
+                    {
+                        "badge": "database.mongodb",
+                        "url": "https://www.mongodb.com/",
+                        "alt": "MongoDB"
+                    },
+                    {
+                        "badge": "management.maven",
+                        "url": "https://maven.apache.org/",
+                        "alt": "Apache Maven"
+                    },
+                    {
+                        "badge": "management.composer",
+                        "url": "https://getcomposer.org/",
+                        "alt": "Composer"
+                    },
+                    {
+                        "badge": "framework.spring",
+                        "url": "https://spring.io/",
+                        "alt": "Spring Framework"
+                    },
+                    {
+                        "badge": "orm.hibernate",
+                        "url": "https://hibernate.org/",
+                        "alt": "Hibernate"
+                    },
+                    {
+                        "badge": "test.junit",
+                        "url": "https://junit.org/junit5/",
+                        "alt": "JUnit"
+                    },
+                    {
+                        "badge": "vcs.git",
+                        "url": "https://git-scm.com/",
+                        "alt": "Git"
+                    }
+                ]
+            },
+            "github_stats": {
+                "stats": {
+                    "show_icons": true,
+                    "theme": "highcontrast",
+                    "alt" : "Stats"
+                },
+                "top_langs": {
+                    "theme": "highcontrast",
+                    "layout": "compact",
+                    "alt" : "Top Languages"
+                }
+            }
+        }
+    }
+}

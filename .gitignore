@@ -1,0 +1,8 @@
+### Virtualenv ###
+.venv/
+
+### Example .md files ###
+**/*.example.md
+
+### Generated ###
+generated/

@@ -1,0 +1,507 @@
+{
+    "url": "https://img.shields.io/badge/",
+    "badges": {
+        "language": {
+            "java": {
+                "content": "Java",
+                "color": "ED8B00",
+                "logo": "openjdk",
+                "logoColor": "white"
+            },
+            "python": {
+                "content": "Python",
+                "color": "FFD43B",
+                "logo": "python",
+                "logoColor": "blue"
+            },
+            "php": {
+                "content": "PHP",
+                "color": "777BB4",
+                "logo": "php",
+                "logoColor": "white"
+            },
+            "html": {
+                "content": "HTML5",
+                "color": "E34F26",
+                "logo": "html5",
+                "logoColor": "white"
+            },
+            "go": {
+                "content": "Go",
+                "color": "00ADD8",
+                "logo": "go",
+                "logoColor": "white"
+            },
+            "javascript": {
+                "content": "JavaScript",
+                "color": "323330",
+                "logo": "javascript",
+                "logoColor": "F7DF1E"
+            },
+            "typescript": {
+                "content": "TypeScript",
+                "color": "007ACC",
+                "logo": "typescript",
+                "logoColor": "white"
+            },
+            "json": {
+                "content": "json",
+                "color": "5E5C5C",
+                "logo": "json",
+                "logoColor": "white"
+            },
+            "groovy": {
+                "content": "apache Groovy",
+                "color": "4298B8",
+                "logo": "apachegroovy",
+                "logoColor": "white"
+            },
+            "kotlin": {
+                "content": "Kotlin",
+                "color": "B125EA",
+                "logo": "kotlin",
+                "logoColor": "white"
+            },
+            "lua": {
+                "content": "Lua",
+                "color": "2C2D72",
+                "logo": "lua",
+                "logoColor": "white"
+            },
+            "c": {
+                "content": "C",
+                "color": "00599C",
+                "logo": "c",
+                "logoColor": "white"
+            },
+            "csharp": {
+                "content": "C#",
+                "color": "239120",
+                "logo": "csharp",
+                "logoColor": "white"
+            },
+            "cpp": {
+                "content": "C++",
+                "color": "00599C",
+                "logo": "c%2B%2B",
+                "logoColor": "white"
+            },
+            "pug": {
+                "content": "Pug",
+                "color": "E3C29B",
+                "logo": "pug",
+                "logoColor": "black"
+            },
+            "rust": {
+                "content": "Rust",
+                "color": "000000",
+                "logo": "rust",
+                "logoColor": "white"
+            }
+        },
+        "database": {
+            "mysql": {
+                "content": "MySQL",
+                "color": "4479A1",
+                "logo": "mysql",
+                "logoColor": "white"
+            },
+            "sqlite": {
+                "content": "SQLite",
+                "color": "003B57",
+                "logo": "sqlite",
+                "logoColor": "white"
+            },
+            "postgresql": {
+                "content": "PostgreSQL",
+                "color": "316192",
+                "logo": "postgresql",
+                "logoColor": "white"
+            },
+            "sqlserver": {
+                "content": "Microsoft_SQL_Server",
+                "color": "CC2927",
+                "logo": "microsoft-sql-server",
+                "logoColor": "white"
+            },
+            "mongodb": {
+                "content": "MongoDB",
+                "color": "47A248",
+                "logo": "mongodb",
+                "logoColor": "white"
+            }
+        },
+        "management": {
+            "maven": {
+                "content": "Apache_Maven",
+                "color": "C71A36",
+                "logo": "apachemaven",
+                "logoColor": "white"
+            },
+            "composer": {
+                "content": "Composer",
+                "color": "885630",
+                "logo": "composer",
+                "logoColor": "white"
+            },
+            "npm": {
+                "content": "npm",
+                "color": "CB3837",
+                "logo": "npm",
+                "logoColor": "white"
+            },
+            "pnpm": {
+                "content": "pnpm",
+                "color": "yellow",
+                "logo": "pnpm",
+                "logoColor": "white"
+            },
+            "yarn": {
+                "content": "Yarn",
+                "color": "2C8EBB",
+                "logo": "yarn",
+                "logoColor": "white"
+            }
+        },
+        "framework": {
+            "spring": {
+                "content": "Spring",
+                "color": "6DB33F",
+                "logo": "spring",
+                "logoColor": "white"
+            },
+            "flutter": {
+                "content": "Flutter",
+                "color": "02569B",
+                "logo": "flutter",
+                "logoColor": "white"
+            },
+            "nativescript": {
+                "content": "NativeScript",
+                "color": "3655FF",
+                "logo": "NativeScript",
+                "logoColor": "black"
+            },
+            "react_native": {
+                "content": "React_Native",
+                "color": "20232A",
+                "logo": "react",
+                "logoColor": "61DAFB"
+            },
+            "bootstrap": {
+                "content": "Bootstrap",
+                "color": "563D7C",
+                "logo": "bootstrap",
+                "logoColor": "white"
+            },
+            "tailwindcss": {
+                "content": "Tailwind_CSS",
+                "color": "38B2AC",
+                "logo": "tailwind-css",
+                "logoColor": "white"
+            },
+            "django": {
+                "content": "Django",
+                "color": "092E20",
+                "logo": "django",
+                "logoColor": "green"
+            },
+            "django_rest": {
+                "content": "django rest",
+                "color": "ff1709",
+                "logo": "django",
+                "logoColor": "white"
+            },
+            "fastapi": {
+                "content": "fastapi",
+                "color": "109989",
+                "logo": "FASTAPI",
+                "logoColor": "white"
+            },
+            "flask": {
+                "content": "Flask",
+                "color": "000000",
+                "logo": "flask",
+                "logoColor": "white"
+            },
+            "express": {
+                "content": "Express js",
+                "color": "000000",
+                "logo": "express",
+                "logoColor": "white"
+            },
+            "laravel": {
+                "content": "Laravel",
+                "color": "FF2D20",
+                "logo": "laravel",
+                "logoColor": "white"
+            },
+            "symfony": {
+                "content": "Symfony",
+                "color": "000000",
+                "logo": "Symfony",
+                "logoColor": "white"
+            },
+            "svelte": {
+                "content": "Svelte",
+                "color": "4A4A55",
+                "logo": "svelte",
+                "logoColor": "FF3E00"
+            },
+            "sveltekit": {
+                "content": "SvelteKit",
+                "color": "FF3E00",
+                "logo": "Svelte",
+                "logoColor": "white"
+            },
+            "vue": {
+                "content": "Vue js",
+                "color": "35495E",
+                "logo": "vuedotjs",
+                "logoColor": "4FC08D"
+            }
+        },
+        "lib": {
+            "kafka": {
+                "content": "Apache_Kafka",
+                "color": "231F20",
+                "logo": "apache-kafka",
+                "logoColor": "white"
+            },
+            "spark": {
+                "content": "Apache_Spark",
+                "color": "FFFFFF",
+                "logo": "apachespark",
+                "logoColor": "#E35A16"
+            },
+            "jwt": {
+                "content": "JWT",
+                "color": "000000",
+                "logo": "JSON web tokens",
+                "logoColor": "white"
+            },
+            "swagger": {
+                "content": "Swagger",
+                "color": "85EA2D",
+                "logo": "Swagger",
+                "logoColor": "white"
+            }
+        },
+        "orm": {
+            "hibernate": {
+                "content": "Hibernate",
+                "color": "59666C",
+                "logo": "hibernate",
+                "logoColor": "white"
+            },
+            "prisma": {
+                "content": "Prisma",
+                "color": "3982CE",
+                "logo": "Prisma",
+                "logoColor": "white"
+            },
+            "sequelize": {
+                "content": "Sequelize",
+                "color": "52B0E7",
+                "logo": "sequelize",
+                "logoColor": "white"
+            },
+            "jpa": {
+                "content": "JPA",
+                "color": "59666C",
+                "logo": "hibernate",
+                "logoColor": "white"
+            }
+        },
+        "test": {
+            "junit": {
+                "content": "JUnit",
+                "color": "25A162",
+                "logo": "junit5",
+                "logoColor": "white"
+            }
+        },
+        "cloud": {
+            "aws": {
+                "content": "AWS",
+                "color": "232F3E",
+                "logo": "amazon-aws",
+                "logoColor": "white"
+            },
+            "gcloud": {
+                "content": "Google Cloud",
+                "color": "4285F4",
+                "logo": "google-cloud",
+                "logoColor": "white"
+            },
+            "azure": {
+                "content": "Microsoft_Azure",
+                "color": "0078D4",
+                "logo": "microsoft-azure",
+                "logoColor": "white"
+            },
+            "heroku": {
+                "content": "Heroku",
+                "color": "430098",
+                "logo": "heroku",
+                "logoColor": "white"
+            }
+        },
+        "tools": {
+            "docker": {
+                "content": "Docker",
+                "color": "2496ED",
+                "logo": "docker",
+                "logoColor": "white"
+            },
+            "vagrant": {
+                "content": "Vagrant",
+                "color": "1868F2",
+                "logo": "vagrant",
+                "logoColor": "white"
+            },
+            "kubernetes": {
+                "content": "Kubernetes",
+                "color": "326CE5",
+                "logo": "kubernetes",
+                "logoColor": "white"
+            }
+        },
+        "os": {
+            "linux": {
+                "content": "Linux",
+                "color": "FCC624",
+                "logo": "linux",
+                "logoColor": "black"
+            },
+            "macos": {
+                "content": "macOS",
+                "color": "000000",
+                "logo": "apple",
+                "logoColor": "white"
+            },
+            "windows": {
+                "content": "Windows",
+                "color": "0078D6",
+                "logo": "windows",
+                "logoColor": "white"
+            }
+        },
+        "vcs": {
+            "git": {
+                "content": "Git",
+                "color": "F05032",
+                "logo": "git",
+                "logoColor": "white"
+            },
+            "bitbucket": {
+                "content": "Bitbucket",
+                "color": "0052CC",
+                "logo": "bitbucket",
+                "logoColor": "white"
+            },
+            "github": {
+                "content": "GitHub",
+                "color": "181717",
+                "logo": "github",
+                "logoColor": "white"
+            },
+            "gitlab": {
+                "content": "GitLab",
+                "color": "FC6D26",
+                "logo": "gitlab",
+                "logoColor": "white"
+            }
+        },
+        "editor": {
+            "intellij": {
+                "content": "IntelliJ_IDEA",
+                "color": "000000",
+                "logo": "intellij-idea",
+                "logoColor": "white"
+            },
+            "vscode": {
+                "content": "VS Code",
+                "color": "007ACC",
+                "logo": "visual-studio-code",
+                "logoColor": "white"
+            },
+            "vscodium": {
+                "content": "VSCodium",
+                "color": "2FBCD0",
+                "logo": "vscodium",
+                "logoColor": "white"
+            },
+            "atom": {
+                "content": "Atom",
+                "color": "66595C",
+                "logo": "atom",
+                "logoColor": "white"
+            },
+            "notepadplusplus": {
+                "content": "Notepad++",
+                "color": "90E59A",
+                "logo": "notepad%2B%2B",
+                "logoColor": "black"
+            },
+            "sublime": {
+                "content": "Sublime Text",
+                "color": "FF9800",
+                "logo": "sublime-text",
+                "logoColor": "white"
+            }
+        },
+        "ci": {
+            "circleci": {
+                "content": "CircleCI",
+                "color": "343434",
+                "logo": "circleci",
+                "logoColor": "white"
+            },
+            "github_actions": {
+                "content": "GitHub_Actions",
+                "color": "2088FF",
+                "logo": "githubactions",
+                "logoColor": "white"
+            },
+            "gitlab_ci": {
+                "content": "GitLab_CI",
+                "color": "FC6D26",
+                "logo": "gitlab",
+                "logoColor": "white"
+            },
+            "jenkins": {
+                "content": "Jenkins",
+                "color": "D24939",
+                "logo": "jenkins",
+                "logoColor": "white"
+            },
+            "travis": {
+                "content": "Travis CI",
+                "color": "3EAAAF",
+                "logo": "travis-ci",
+                "logoColor": "white"
+            }
+        },
+        "other": {
+            "markdown": {
+                "content": "Markdown",
+                "color": "000000",
+                "logo": "markdown",
+                "logoColor": "white"
+            },
+            "opencv": {
+                "content": "OpenCV",
+                "color": "5C3EE8",
+                "logo": "opencv",
+                "logoColor": "white"
+            },
+            "regex": {
+                "content": "Regex",
+                "color": "5C3EE8",
+                "logo": "regex",
+                "logoColor": "white"
+            }
+        }
+    }
+}
