@@ -9,7 +9,7 @@
 {% endif %}
 
 {% if sections.technologies %}
-## Technologies
+## Technologies & Tools
 
 {%- for tech in sections.technologies.techs %}
 {%- set section, key = tech.badge.split('.') -%}
