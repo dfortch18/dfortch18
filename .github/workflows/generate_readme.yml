@@ -1,0 +1,39 @@
+name: Generate README
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Set up python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Run generate script
+        run: |
+          python generate_readme.py \
+            --data data.json
+      
+      - name: Commit generated README
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'README.md'
+          message: 'Generate README.md dynamically'
+          author_name: 'GitHub Actions'
+          author_email: 'actions@github.com'
+  
