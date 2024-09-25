@@ -22,11 +22,11 @@
     <summary><strong>Gihub Stats</strong></summary>
     {%- if sections.github_stats.stats -%}
     {%- set stats = sections.github_stats.stats -%}
-    {{ github_stats_macros.user_stats(user.username, stats.theme, stats.show_icons) }}
+    {{ github_stats_macros.user_stats(user.username, stats.theme, stats.show_icons, stats.alt) }}
     {%- endif -%}
     {%- if sections.github_stats.top_langs %}
     {%- set top_langs = sections.github_stats.top_langs -%}
-    {{ github_stats_macros.top_langs(user.username, top_langs.theme, top_langs.layout) }}
+    {{ github_stats_macros.top_langs(user.username, top_langs.theme, top_langs.layout, top_langs.alt) }}
     {%- endif -%}
 </details>
 {% endif %}
