@@ -97,7 +97,8 @@
                 "top_langs": {
                     "theme": "highcontrast",
                     "layout": "compact",
-                    "alt" : "Top Languages"
+                    "alt" : "Top Languages",
+                    "hide": ["html", "css"]
                 }
             }
         }

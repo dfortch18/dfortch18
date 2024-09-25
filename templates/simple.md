@@ -26,7 +26,7 @@
     {%- endif -%}
     {%- if sections.github_stats.top_langs %}
     {%- set top_langs = sections.github_stats.top_langs -%}
-    {{ github_stats_macros.top_langs(user.username, top_langs.theme, top_langs.layout, top_langs.alt) }}
+    {{ github_stats_macros.top_langs(user.username, top_langs.theme, top_langs.layout, top_langs.hide, top_langs.alt) }}
     {%- endif -%}
 </details>
 {% endif %}
