@@ -31,5 +31,5 @@
 
 <details>
     <summary><strong>Gihub Stats</strong></summary>
-<img src="https://github-readme-stats.vercel.app/api?username=dfortch18&theme=highcontrast&show_iconsTrue" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dfortch18&theme=highcontrast&layout=compact&hide=html,css" alt="Top Languages" /></details>
+<img src="https://github-readme-stats.vercel.app/api?username=dafexDev&theme=highcontrast&show_iconsTrue" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dafexDev&theme=highcontrast&layout=compact&hide=html,css" alt="Top Languages" /></details>
